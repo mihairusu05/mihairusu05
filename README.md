@@ -8,12 +8,6 @@ I have hands-on experience and feel comfortable building projects with:
 * **Python**
 * **Java**
 
-## GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihairusu05&show_icons=true&theme=radical&v=1" alt="Mihai's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihairusu05&layout=compact&theme=radical&v=1" alt="Mihai's Top Languages" height="165" />
-</p>
-
 ## When I'm Not Coding
 I believe a good developer needs screen breaks. When I'm away from the keyboard, you can usually find me:
 * **Playing basketball:** Hitting the court for a pickup game.
