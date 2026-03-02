@@ -10,8 +10,8 @@ I have hands-on experience and feel comfortable building projects with:
 
 ## GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihairusu05&show_icons=true&theme=radical" alt="Mihai's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihairusu05&layout=compact&theme=radical" alt="Mihai's Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mihairusu05&show_icons=true&theme=radical&v=1" alt="Mihai's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihairusu05&layout=compact&theme=radical&v=1" alt="Mihai's Top Languages" height="165" />
 </p>
 
 ## When I'm Not Coding
